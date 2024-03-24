@@ -25,4 +25,5 @@
 
 ## Demonstrativo em vídeo
 
-[![Assista ao vídeo demonstrativo](https://youtu.be/JHh9PStAofA))
+[![Assista ao vídeo demonstrativo](https://img.youtube.com/vi/JHh9PStAofA/maxresdefault.jpg)](https://www.youtube.com/watch?v=JHh9PStAofA)
+
