@@ -12,9 +12,8 @@
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor Primária       | ![#5e5a61](![image](https://github.com/analuiza2102/Portfolio_Ana/assets/103043108/a1b755c5-3c51-4318-8a92-603cd321a7f9)
-) #5e5a61 |
-| Cor exemplo       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Cor Primária       | #5e5a61(![image](https://github.com/analuiza2102/Portfolio_Ana/assets/103043108/a1b755c5-3c51-4318-8a92-603cd321a7f9)
+| Cor Secundária     | #161516(![image](https://github.com/analuiza2102/Portfolio_Ana/assets/103043108/a4b5e877-0485-44b6-8a10-1cae7abe4e66)
 | Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
