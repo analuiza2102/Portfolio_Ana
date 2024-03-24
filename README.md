@@ -21,4 +21,4 @@
 
 ## Screenshots
 
-![image](https://github.com/analuiza2102/Portfolio_Ana/assets/103043108/9c8bc2c6-c3fd-4c20-9dd2-0e111879fd6e)
+![image](https://github.com/analuiza2102/Portfolio_Ana/assets/103043108/9824c854-d9ba-467e-ad1f-87407f171307)
