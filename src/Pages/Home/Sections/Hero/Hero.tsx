@@ -62,14 +62,14 @@ const Hero = () =>{
                         <Grid container display={"Flex"} justifyContent="center" spacing={3} pt={4}> 
 
                             <Grid item xs={12} md={4} display={"Flex"} justifyContent="center" >
-                            <StyledButton >
+                            <StyledButton onClick={console.log }>
                                 <EmailIcon/> 
                                 <Typography> Contact me </Typography>
                             </StyledButton>
                             </Grid>
 
                             <Grid item xs={12} md={4} display={"Flex"} justifyContent="center"> 
-                                    <StyledButton> 
+                                    <StyledButton onClick={console.log }> 
                                         <FileDownloadIcon/>
                                         <Typography> Download CV </Typography>
                                         </StyledButton>
