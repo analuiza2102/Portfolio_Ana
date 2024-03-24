@@ -19,9 +19,11 @@ let theme = createTheme({
         fontFamily: 'Helvetica Neue, sans-serif',
         h1: {
             color: "#db8286",
+            fontSize: "3rem",
         },
         h2: {
             color: "#a4b4bc",
+            fontSize: "2rem",
         },
     },
     
